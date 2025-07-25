@@ -1,6 +1,6 @@
-# Smart Farming Assistant
+# PlantPal
 
-Welcome to the **Smart Farming Assistant** project! This innovative solution leverages advanced technologies such as machine learning and deep learning to assist farmers in making data-driven decisions to optimize crop selection, disease management, and farming practices.
+Welcome to the **PlantPal** project! This innovative solution leverages advanced technologies such as machine learning and deep learning to assist farmers in making data-driven decisions to optimize crop selection, disease management, and farming practices.
 
 ## Datasets
 To implement the **Smart Crop Recommendation System** and **Plant Disease Identification** features, we provide three essential datasets:
